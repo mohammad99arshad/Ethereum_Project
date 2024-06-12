@@ -1,7 +1,6 @@
 MyToken - A Basic Fungible Token
 A simplified implementation of a fungible token contract for learning and experimentation. The main function is to mint and burn tokens to demonstrate token creation and destruction.
 
-
 Description
 This project is a basic Solidity smart contract designed to help beginners understand the core concepts of token creation and management on the Ethereum blockchain. It simulates a simple token with the following features:
 
